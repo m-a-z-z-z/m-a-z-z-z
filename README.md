@@ -3,8 +3,6 @@
 > And then get up the following mornin' anyway and Maureen would have the servers on, and I'd go at it *agin.*
 > And there'd be no feckin shtopping me. I'd code the keys off any mans laptop. **BASH**tards.
 
-![Hackerman-Paddy-Losty.png](https://i.postimg.cc/vm6Ltx0H/Hackerman-Paddy-Losty.png)
-<!---
-m-a-z-z-z/m-a-z-z-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="Hackerman-Paddy-Losty-2.png" alt="Hackerman Paddy Losty at it agin in the server room" title="Hackerman Paddy Losty circa 1996 (Colourised)" width="320" height="240" />
+
+
